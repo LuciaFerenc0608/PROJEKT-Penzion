@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LuciaFerenc0608/PROJEKT-Penzion.git"
+    "url": "https://github.com/LuciaFerenc0608/PROJEKT-Penzion.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LuciaFerenc0608/PROJEKT-Penzion/issues"
+    "url": "https://github.com/LuciaFerenc0608/PROJEKT-Penzion/"
   },
-  "homepage": "https://github.com/LuciaFerenc0608/PROJEKT-Penzion#readme",
+  "homepage": "https://github.com/LuciaFerenc0608/PROJEKT-Penzion",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.1"
   },
